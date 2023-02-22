@@ -2,7 +2,7 @@
     border: 1px solid black;
 }
 
-.test{
+.row>div{
     background-color:rgb(218, 80, 45);
     border: 1px solid black;
 }
